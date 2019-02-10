@@ -1,0 +1,164 @@
+#country	amount
+Papua New Guinea	2
+Cambodia	8
+Kazakhstan	13
+Paraguay	7
+Syria	4
+Mali	10
+Panama	3
+Guadeloupe	1
+Laos	7
+Argentina	36
+Zambia	12
+Belize	1
+Namibia	2
+Finland	31
+Netherlands Antilles	1
+Georgia	9
+Yemen	3
+Puerto Rico	3
+Eritrea	1
+Aruba	1
+Madagascar	11
+Ivory Coast	9
+Libya	7
+Sweden	41
+West Bank	6
+Malawi	10
+Poland	126
+Congo-Kinshasa	25
+Bulgaria	11
+Jordan	2
+Tunisia	3
+United Arab Emirates	7
+Kenya	12
+Lebanon	3
+Azerbaijan	6
+Cuba	12
+Czech Republic	38
+Mauritania	1
+Israel	11
+Australia	62
+Tajikistan	3
+Cameroon	9
+Cyprus	5
+Malaysia	17
+Iceland	4
+Oman	2
+Armenia	6
+Gabon	1
+Luxembourg	5
+Brazil	100
+Algeria	16
+Slovenia	10
+Colombia	38
+Ecuador	19
+Moldova	6
+Honduras	2
+Italy	154
+Haiti	3
+Afghanistan	4
+Burundi	2
+Myanmar (Burma)	35
+Singapore	8
+French Guiana	1
+Russia	209
+Netherlands	68
+China	60
+Kyrgyzstan	5
+Reunion	1
+Romania	17
+Togo	4
+Philippines	48
+Uzbekistan	14
+Zimbabwe	5
+Montenegro	3
+Indonesia	76
+Benin	5
+Angola	7
+Sudan	9
+Portugal	28
+New Caledonia	1
+North Korea	1
+Greece	24
+Latvia	7
+Mongolia	3
+Iran	42
+Morocco	9
+Guatemala	5
+Guyana	1
+Iraq	40
+Chile	24
+Nepal	22
+Ukraine	67
+Congo-Brazzaville	2
+Ghana	14
+India	65
+Canada	67
+Turkey	27
+Belgium	53
+Taiwan	23
+South Africa	13
+Trinidad and Tobago	2
+Central African Republic	1
+Jamaica	1
+Peru	24
+Turkmenistan	3
+Germany	504
+Guinea	5
+United States	418
+Chad	7
+Somalia	3
+Thailand	33
+Costa Rica	5
+Vietnam	25
+Nigeria	41
+Croatia	14
+Sri Lanka	29
+Uruguay	3
+United Kingdom	144
+Switzerland	50
+Spain	116
+Venezuela	5
+Liberia	2
+Burkina Faso	4
+Estonia	4
+Austria	69
+South Korea	21
+Mozambique	8
+El Salvador	3
+Lesotho	1
+Hungary	33
+Japan	136
+Belarus	36
+Mauritius	1
+Albania	4
+New Zealand	16
+Senegal	8
+Macedonia	2
+Ethiopia	7
+Egypt	5
+Sierra Leone	1
+Bolivia	13
+Malta	1
+Saudi Arabia	6
+Pakistan	9
+United Republic of Tanzania	87
+Ireland	14
+Qatar	1
+Slovakia	19
+France	235
+Lithuania	11
+Serbia	13
+Bosnia and Herzegovina	5
+Niger	6
+Rwanda	2
+Bangladesh	35
+Nicaragua	4
+Norway	28
+Botswana	5
+Denmark	21
+Dominican Republic	3
+Mexico	47
+Uganda	34
+Suriname	1
